@@ -1,3 +1,5 @@
 # stackstorm-nomad
 
-StackStorm module for Hashicorp Nomad - WIP
+StackStorm module for Hashicorp Nomad.
+
+## Work In Progress
